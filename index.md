@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<body>
 
-You can use the [editor on GitHub](https://github.com/amy-hyde/personal-profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="picture-1.jpeg" alt="">
+<img src="picture-2.jpeg" alt="">
+<img src="picture-3.jpg" alt="">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <h1>Amy Hyde</h1>
+  <h3>Fun Facts</h3>
+  <p>My name is Amy Louise Hyde, I was born on the 14th of September and I am currently 20 years old!</p>
+  <p>Some facts about me: I enjoy playing football (soccer) and my favourite team is Manchester City. My favourite colour is orange. And I LOVE anything to do with curry; naan breads, onion bhajis, papadams - the works!</p>
 
-### Markdown
+  <h1>Personality Test Results</h1>
+  <p>After taking the Myers-Briggs Test, I was declared an 'Architect', with the personality type being: INTJ-T.</p>
+  <p>With this personality type, my strengths include:
+      <p>Challenges where a rational thinking strategy is required</p>
+      <p>Tasks that provide the opportunity to work independently</p>
+      <p>And, environments that allow my curiosity to take over.</p>
+  <p>Overall, I think that these attributes relate to my personality as I love working on assignments and challenges that allow me to work individually. However, I'll never say no to a challenge - even if that means stepping out of my comfort zone and working in a group environment.</p>
+  <p>I like to think of myself as a very curious person, and feel as though I need an answer to every question. This makes philosophical questions really hard to think about!</p>
+  <p>According to the Myers-Briggs Test, the weaknesses of an INTJ-T personality type include: being overly critical of themselves, and not allowing emotions getting in their way.</p>
+  <p>There were a few others listed, but these were the weaknesses that I felt I related to the most.</p>
+  <p>After taking the VARK Online Learning Style Questionnaire, it was revealed that my preferred learning style is Multimodal.</p>
+  <p>This means that I prefer to learn via the use of graphs, diagrams, maps, listening, and discussing.</p>
+  <p>I feel as though this is correct in relation to myself, as I can drift off easily and prefer to work in a stimulating learning environment that allows me to fully engage in the topic.</p>
+  <p>For the third and final test, I decided to take the Big Five Test by Truity. Through this test the five major dimensions of personality were measured and presented. The five major dimensions being: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism (or OCEAN for short).</p>
+  <p>Below are my results from this test in diagram form</p>
+<img src="big-5-chart-2.PNG" alt="">
+<img src="big-5-chart.PNG" alt="">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <p>Overall, I feel as though I relate to all the results in one way or another.</p>
+  <p>In a group scenario, I feel as though I would have to attempt to exert myself. I feel as though I am relatively introverted, and I would have to try not to be so reserved in order to work successfully with others.</p>
 
-```markdown
-Syntax highlighted code block
+  <h1>Interest in IT</h1>
+  <p>I have had an interest in IT for as long as I can remember, whether it be having an idea for an app (that I never went through with), wanting to work for a big tech media company, or develop a new video game.</p>
+  <p>But it was not until this year where I started to pursue my interest in the IT field. I never even thought that working in this area was an option given the fact that I am female. That sounds stupid now, but growing up most of the successful people in the field were male: Bill Gates, Steve Jobs etc.</p>
+  <p>Although after a year studying a course I had no interest in, I realised that I may as well give it a go. What can go wrong?</p>
+  <p>Introduction to IT is the second topic that I have taken at RMIT this year. Last study period, I studied Introduction to Programming which I ended up really enjoying and sparked my interest even more than I thought it could.</p>
+  <p>As previously mentioned, I undertook a year of another course at my local university and quickly realised that it was not for me. After some searching through the hundreds of courses available, I came across Computer Science - and thought the course outline sounded really interesting.</p>
+  <p>However, because I did not take Math Methods in year 12 I was not eligible for a transfer straight away. So as well as topics at RMIT I am taking a couple Maths topics elsewhere in the hopes of transferring into Computer Science in the new year.</p>
+  <p>During this topic, I hope to learn the basics of Information Technology and get a head start in my studies next year</p>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amy-hyde/personal-profile/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  <h1>Ideal Job</h1>
